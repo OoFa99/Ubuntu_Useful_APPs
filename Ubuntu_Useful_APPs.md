@@ -1,6 +1,6 @@
-#**Ubuntu APPs.**
+# **Ubuntu APPs.**
 
-##Editors :-
+## Editors :-
 
 1. Typora
 1. VS Code
@@ -8,22 +8,22 @@
 1. Sublime
 1. PyCharm
 
-##Media :-
+## Media :-
 
 1. Zoom
 1. Quod Libet
 1. Team Viewer
 
-##Text Editors :-
+## Text Editors :-
 1. Upad
 1. QOwn Notes
 1. Ghost Desktop
 
-##Others :-
+## Others :-
 1. Google Chrome
 1. Tweaks
 
-##Extensions :-
+## Extensions :-
 1. AppFolders Management extension
 1. Clipboard Indicator
 1. Dash to Dock
