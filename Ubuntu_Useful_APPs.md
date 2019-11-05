@@ -6,10 +6,10 @@
 1. VS Code
 1. Geany
 1. Sublime
+1. Atom
 1. PyCharm
 
 ## Media :-
-
 1. Zoom
 1. Quod Libet
 1. Team Viewer
@@ -19,8 +19,12 @@
 1. QOwn Notes
 1. Ghost Desktop
 
-## Others :-
+## Browsers :-
+1. Chromium
 1. Google Chrome
+1. Opera
+
+## Others :-
 1. Tweaks
 
 ## Extensions :-
